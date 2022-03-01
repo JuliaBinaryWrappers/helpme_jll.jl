@@ -1,0 +1,56 @@
+[[helpme]]
+arch = "aarch64"
+git-tree-sha1 = "16b248237fb54958d7590085c0babb22eb0320cc"
+os = "macos"
+
+    [[helpme.download]]
+    sha256 = "41923a1f9ce64fbb90a69c398c9482c0588fd53b1e34b28c7387ce741fbe1b55"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[helpme]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f49790d45877ed5f856e6c5525c5d60e440797af"
+libc = "glibc"
+os = "linux"
+
+    [[helpme.download]]
+    sha256 = "77bc2d33bbad33476b11b7178a465fa279abea39309ea77e9e26bfcac0a18a45"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[helpme]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a28fa3c977fef7d9e6469d110713e3670ba8c650"
+libc = "glibc"
+os = "linux"
+
+    [[helpme.download]]
+    sha256 = "469101aa8dd79c80009f17edf6f70b4b1651aad71c2b1d2579fc8d2f7a8dfc09"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[helpme]]
+arch = "x86_64"
+git-tree-sha1 = "7442784d3b48f1afc4bdfaa3860c5ad628021da5"
+os = "macos"
+
+    [[helpme.download]]
+    sha256 = "4183e849c9ad1de2d8095cae3e0e28f2fc85c1faef4924a505322e03b93d46fe"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[helpme]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d70d79eec7ac0241247aa54ab4acb1077d5bf023"
+libc = "glibc"
+os = "linux"
+
+    [[helpme.download]]
+    sha256 = "d6abe385ca0f75032a10ccad6c3dd023c0c96169e2ee3dc19ba5cbbce654387b"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[helpme]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c8c012c4b3919c80ad2a7d760d9689a877b1560"
+libc = "glibc"
+os = "linux"
+
+    [[helpme.download]]
+    sha256 = "0e8f8dba1e5f94352fbbc4761d9c82363feb408959fcc8b684a2e34834c2878e"
+    url = "https://github.com/JuliaBinaryWrappers/helpme_jll.jl/releases/download/helpme-v0.1.0+0/helpme.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
